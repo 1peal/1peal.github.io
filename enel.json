@@ -1,8 +1,12 @@
 [
     {
-        "id": 1,
         "title": "エネル",
         "description": "びっくり",
         "image_url": "https://1.bp.blogspot.com/-WoPLgzbefuw/X-FcxFa-YjI/AAAAAAABdE0/42S9V3wWi400mGKLEiB_pQT-dqTKT28kwCNcBGAsYHQ/s400/onepiece14_enel.png"
+    },
+    {
+        "title": "ルッチ",
+        "description": "不適な笑み",
+        "image_url": "https://1.bp.blogspot.com/-f77JyLzDMeg/X-FcxDMHWxI/AAAAAAABdEw/zSmsi1UHuHwfQTTyw3o9h4yTH_noWumdACNcBGAsYHQ/s180-c/onepiece15_lucci.png"
     }
 ]
