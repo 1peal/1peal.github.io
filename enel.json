@@ -10,5 +10,41 @@
         "title": "ルッチ",
         "description": "不適な笑み",
         "image_url": "https://1.bp.blogspot.com/-f77JyLzDMeg/X-FcxDMHWxI/AAAAAAABdEw/zSmsi1UHuHwfQTTyw3o9h4yTH_noWumdACNcBGAsYHQ/s180-c/onepiece15_lucci.png"
+    },
+    {
+        "id": 3,
+        "title": "ルフィ",
+        "description": "ギア２",
+        "image_url": "https://1.bp.blogspot.com/-tVeC6En4e_E/X96mhDTzJNI/AAAAAAABdBo/jlD_jvZvMuk3qUcNjA_XORrA4w3lhPkdQCNcBGAsYHQ/s180-c/onepiece01_luffy.png"
+    },
+    {
+        "id": 4,
+        "title": "チョッパー",
+        "description": "逆じゃない？",
+        "image_url": "https://1.bp.blogspot.com/--9Rl2O4BBN0/X-Fct8K5mqI/AAAAAAABdEI/yLOziAqJO34fwn73AolVP0e42A2h-ql1QCNcBGAsYHQ/s180-c/onepiece06_chopper.png"
+    },
+    {
+        "id": 3,
+        "title": "ルフィ",
+        "description": "ギア２",
+        "image_url": "https://1.bp.blogspot.com/-tVeC6En4e_E/X96mhDTzJNI/AAAAAAABdBo/jlD_jvZvMuk3qUcNjA_XORrA4w3lhPkdQCNcBGAsYHQ/s180-c/onepiece01_luffy.png"
+    },
+    {
+        "id": 5,
+        "title": "フランキー",
+        "description": "スーパー",
+        "image_url": "https://1.bp.blogspot.com/-H8YBA_SpxGs/X-Fcu75hh_I/AAAAAAABdEU/WRKUa03ypYor3TwvhziHAnSEcTN4Noq0gCNcBGAsYHQ/s180-c/onepiece08_franky.png"
+    },
+    {
+        "id": 6,
+        "title": "サンジ",
+        "description": "メロメロ",
+        "image_url": "https://1.bp.blogspot.com/-HPG_x7XPky8/X-FctLTLkKI/AAAAAAABdEE/xs4T8m0FiBAFptXHGQhQ2c9ZmVWtaeQSgCNcBGAsYHQ/s180-c/onepiece05_sanji.png"
+    },
+    {
+        "id": 7,
+        "title": "ティーチ",
+        "description": "ゼハハハハ",
+        "image_url": "https://1.bp.blogspot.com/-zI09uEfw6d0/X-Gi25YOurI/AAAAAAABdF8/cI5nH8a-ixUXp4OaalvU97kqAA8T-wHWgCNcBGAsYHQ/s200/onepiece19_kurohige_teach2.png"
     }
 ]
